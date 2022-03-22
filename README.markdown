@@ -14,9 +14,15 @@ Get to know information about the company on the home page.
 A Video background to give you a feel of the Tourism.
 
 #TOOLS AND TECHNOLOGY
+
 HTML
+
 CSS
+
 JavaScripts
+
 VS code
+
 Google Fonts
+
 Github
